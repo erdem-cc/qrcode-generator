@@ -17,7 +17,7 @@ Built with **Node.js**, **Express**, and **vanilla JavaScript** — no database,
 
 ## 🧪 Preview
 
-<img src="./public/preview.png" alt="qr code preview" width="300" />
+<img src="./preview.png" alt="qr code preview" width="300" />
 
 ---
 
